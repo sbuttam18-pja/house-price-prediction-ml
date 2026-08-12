@@ -1,4 +1,4 @@
-# 🏠 House Price Prediction using Machine Learning
+ಈ# 🏠 House Price Prediction using Machine Learning
 
 ## 📌 Project Overview
 
@@ -110,7 +110,7 @@ house-price-prediction-ml/
 │   ├── train.csv
 │   └── test.csv
 ├── images/
-│   ├── correlation_heatmap.png
+│   |
 │   ├── lotarea_vs_saleprice_by_bldgtype.png
 │   └── ...
 └── .gitignore
@@ -162,7 +162,7 @@ Run all cells to reproduce the results.
 
 **Your Name** : Uttam SB
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/sbuttam-pja
 
 ---
 
